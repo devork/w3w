@@ -1,5 +1,7 @@
 # W3W Go Client
 
+[![Build Status](https://travis-ci.org/devork/w3w.png?branch=master)](https://travis-ci.org/devork/w3w)
+
 This is a simple Go client for the [W3W API](http://developer.what3words.com/api).
 
 ## Usage
