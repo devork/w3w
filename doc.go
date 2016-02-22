@@ -7,7 +7,7 @@ This is a simple Go client for the [W3W API](http://developer.what3words.com/api
 
 Pull the code you need into your project:
 
-`go get bitbucket.org/devork/w3w`
+`go get github.com/devork/w3w`
 
 ## Samples
 
